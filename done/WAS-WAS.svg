@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="268.45339"
-     inkscape:cy="100.49104"
+     inkscape:zoom="0.5"
+     inkscape:cx="291.41103"
+     inkscape:cy="142.50472"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,11 +35,11 @@
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:window-width="3840"
+     inkscape:window-width="1920"
      inkscape:window-height="2032"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="60"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid852"
@@ -62,6 +62,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-922.06667)">
+    <rect
+       style="opacity:1;fill:#ff0814;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect828"
+       width="798.51086"
+       height="798.51086"
+       x="-143.25543"
+       y="586.81122" />
     <g
        id="g974"
        transform="translate(2)">
