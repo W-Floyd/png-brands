@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="128"
-   viewBox="0 0 512 128"
+   width="4791.0645"
+   height="798.51086"
+   viewBox="0 0 4791.0645 798.51086"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
@@ -52,9 +52,9 @@
        xlink:href="#linearGradient959"
        id="linearGradient961"
        x1="-143.25543"
-       y1="986.06662"
+       y1="986.06665"
        x2="2247.4536"
-       y2="986.06662"
+       y2="986.06665"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,578)" />
   </defs>
@@ -66,8 +66,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="2416.9529"
-     inkscape:cy="330.13754"
+     inkscape:cx="877.29424"
+     inkscape:cy="665.39295"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -81,11 +81,17 @@
      inkscape:window-y="60"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid852"
-       empspacing="8" />
+       empspacing="8"
+       originx="143.25543"
+       originy="335.25541" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -95,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,7 +109,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-922.06667)">
+     transform="translate(143.25543,-586.81122)">
     <rect
        style="opacity:1;fill:#a02324;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.20777702;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect830"
